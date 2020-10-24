@@ -1,21 +1,24 @@
 # Hi there! <img src="images/wave.gif" width="50px">
 
-<!--
-**joshcaplin/joshcaplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. My current focus is full-stack web development - mainly with React, .NET Core and related technologies.
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin: joshcaplin](https://img.shields.io/badge/-joshcaplin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshcaplin/)](https://www.linkedin.com/in/joshcaplin/)  &nbsp;&nbsp;&nbsp;&nbsp;[![Twitter: joshcaplin](https://img.shields.io/badge/-joshcaplin-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/joshcaplin)](https://www.twitter.com/joshcaplin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :metal: About me
+  - 10+ years of experience as a software engineer - architecting & designing applications, building new systems, and enhancing existing systems.
+  - Website:  [www.joshcaplin.dev](https://www.joshcaplin.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fjoshcaplin.dev)
+  - Blog:   [joshcaplin.wordpress.com](https://joshcaplin.wordpress.com)&nbsp;&nbsp;![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fjoshcaplin.wordpress.com)
+&nbsp;
 
-### My favorite books
+### :sunrise_over_mountains: Hobbies
+
+&nbsp;
+
+### :dart: Future goals
+
+&nbsp;
+
+### :book: Favorite books
 <img src="images/1-coding-on-weekend.jpg">
 <hr />
 <img src="images/2-bloated-javascript.jpg">
