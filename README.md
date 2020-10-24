@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 ### My favorite books
 <img src="images/1-coding-on-weekend.jpg">
-<hr style="border-top:1px solid lightgray; background-color: #ffffff">
+<hr />
 <img src="images/2-bloated-javascript.jpg">
-<hr style="border-top:1px solid lightgray; background-color: #ffffff" />
+<hr />
 <img src="images/3-regex-trial-and-error.jpg">
-<hr/>
+<hr />
 <img src="images/4-z-index-100000.jpg">
 
+&nbsp;
+&nbsp;
+**Page Visits:** ![Visitor Count](https://profile-counter.glitch.me/joshcaplin/count.svg)
