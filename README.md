@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <img src="images/1-coding-on-weekend.jpg">
 <hr style="border-top:1px solid lightgray; background-color: #ffffff">
 <img src="images/2-bloated-javascript.jpg">
-<hr style="border-top:1px solid lightgray; background-color: #ffffff">
+<hr style="border-top:1px solid lightgray; background-color: #ffffff" />
 <img src="images/3-regex-trial-and-error.jpg">
-#
+<hr/>
 <img src="images/4-z-index-100000.jpg">
 
