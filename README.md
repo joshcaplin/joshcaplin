@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### My favorite books
-| <img src="images/1-coding-on-weekend.jpg"> | <img src="images/2-bloated-javascript.jpg"> |
-----|----
-| <img src="images/3-regex-trial-and-error.jpg"> | <img src="images/4-z-index-100000.jpg"> |
+<img src="images/1-coding-on-weekend.jpg">
+<hr style="border-top:1px solid lightgray; background-color: #ffffff">
+<img src="images/2-bloated-javascript.jpg">
+<hr style="border-top:1px solid lightgray; background-color: #ffffff">
+<img src="images/3-regex-trial-and-error.jpg">
+<hr style="border-top:1px solid lightgray; background-color: #ffffff">
+<img src="images/4-z-index-100000.jpg">
+
