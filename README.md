@@ -1,10 +1,7 @@
 # Hi there! <img src="images/wave.gif" width="50px">
 
 
-<img src="https://img.shields.io/static/v1?label=code%20quality&message=A%2B&color=brightgreen" > 
-<img src="https://img.shields.io/static/v1?label=technical%20debt&message=heck%20no%21&color=bright%20green" > <img src="https://img.shields.io/static/v1?label=Gives%20me%20nightmares&message=VB6,%20VBA&color=red" >
-
-![GitHub package.json version](https://img.shields.io/github/package-json/v/joshcaplin/joshcaplin)
+<img src="https://img.shields.io/static/v1?label=code%20quality&message=yes!&color=brightgreen" > <img src="https://img.shields.io/static/v1?label=technical%20debt&message=heck%20no%21&color=bright%20green" > <img src="https://img.shields.io/static/v1?label=Gives%20me%20nightmares&message=VB6,%20VBA&color=red" >&nbsp;![GitHub package.json version](https://img.shields.io/github/package-json/v/joshcaplin/joshcaplin)
 
 My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. My current focus is full-stack web development - mainly with React, .NET Core and related technologies.
 
@@ -21,8 +18,37 @@ My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. M
 &nbsp;
 
 ### :dart: Future goals
-- I'd like to help others get into software development.  It seems like a common concern is that people don't know how to get started, or no one will hire them without IT experience so I'd like to share how I got past those roadblocks. 
+- I'd like to help others get into software development.  It seems like a common concern is that people don't know how to get started, or no one will hire them without IT experience so I'd like to share some strategies to get past those roadblocks. 
 &nbsp;
+
+### :eyes: Nerdy stuff...  
+```javascript
+const josh = {
+    codingLanguages: [
+      'JavaScript', 'TypeScript', 'C#', 
+      '...and some obsolete ones I`m embarrassed to admit',
+    ],
+    frameworksLibraries: [
+      'React', 'Angular', 'Vue', '.NET Core', 
+      'ASP.NET', 'Bootstrap', 'Jest', 'jQuery',
+    ],
+    cloud: ['Azure', 'AWS'],
+    miscTechnologies: [
+      'Redux', 'OAuth/OIDC', 'Web API', 'Entity Framework', 'unit testing', 
+      'RESTful services', 'SQL', 'git', 'Node', 'Fluent UI', 'Sass', 'Less',
+    ],
+    architecture: [
+      'Single page applications', 'Microservices', 'MVC',
+      'Serverless architecture', 'Progressive web applications',
+    ],
+    currentSideProjects: [
+      'Publishing a drag & drop npm library', 'Working on a IoT kegerator',
+    ],
+    askMeAbout: ['web dev', 'coding', 'tech','cryptocurrency', '3d printing',],
+    funFacts: 'I tried brewing beer for a while... it`s much harder than it looks!',
+};
+```
+
 
 ### :book: Favorite books
 <img src="images/1-coding-on-weekend.jpg">
