@@ -34,7 +34,7 @@ const josh = {
     funFact: 'I tried brewing beer for a while... it`s much harder than it looks!',
 };
 ```
-&nbsp;
+
 
 ### :book: Favorite books
 <img src="images/1-coding-on-weekend.jpg">
