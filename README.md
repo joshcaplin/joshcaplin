@@ -18,7 +18,7 @@ My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. M
 &nbsp;
 
 ### :dart: Future goals
-- I'd like to help others get into software development.  It seems like a common concern is that people don't know how to get started, or no one will hire them without IT experience so I'd like to share how I got past those roadblocks. 
+- I'd like to help others get into software development.  It seems like a common concern is that people don't know how to get started, or no one will hire them without IT experience so I'd like to share some strategies to get past those roadblocks. 
 &nbsp;
 
 ### :eyes: Nerdy stuff...  
@@ -26,25 +26,25 @@ My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. M
 const josh = {
     codingLanguages: [
       'JavaScript', 'TypeScript', 'C#', 
-      '...and some obsolete ones I`m embarrassed to admit'
+      '...and some obsolete ones I`m embarrassed to admit',
     ],
     frameworksLibraries: [
       'React', 'Angular', 'Vue', '.NET Core', 
-      'ASP.NET', 'Bootstrap', 'Jest', 'jQuery'
+      'ASP.NET', 'Bootstrap', 'Jest', 'jQuery',
     ],
     cloud: ['Azure', 'AWS'],
     miscTechnologies: [
       'Redux', 'OAuth/OIDC', 'Web API', 'Entity Framework', 'unit testing', 
-      'RESTful services', 'SQL', 'git', 'Node', 'Fluent UI', 'Sass', 'Less'
+      'RESTful services', 'SQL', 'git', 'Node', 'Fluent UI', 'Sass', 'Less',
     ],
     architecture: [
       'Single page applications', 'Microservices', 'MVC',
-      'Serverless architecture', 'Progressive web applications'
+      'Serverless architecture', 'Progressive web applications',
     ],
     currentSideProjects: [
-      'Publishing a drag & drop npm library', 'Working on a IoT kegerator'
+      'Publishing a drag & drop npm library', 'Working on a IoT kegerator',
     ],
-    askMeAbout: ['web dev', 'coding', 'tech','cryptocurrency', '3d printing'],
+    askMeAbout: ['web dev', 'coding', 'tech','cryptocurrency', '3d printing',],
     funFacts: 'I tried brewing beer for a while... it`s much harder than it looks!',
 };
 ```
