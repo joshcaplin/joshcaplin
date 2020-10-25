@@ -1,7 +1,7 @@
 # Hi there! <img src="images/wave.gif" width="50px">
 
 
-<img src="https://img.shields.io/static/v1?label=code%20quality&message=yes!&color=brightgreen" > <img src="https://img.shields.io/static/v1?label=technical%20debt&message=heck%20no%21&color=bright%20green" > <img src="https://img.shields.io/static/v1?label=Gives%20me%20nightmares&message=VB6,%20VBA&color=red" >&nbsp;![GitHub package.json version](https://img.shields.io/github/package-json/v/joshcaplin/joshcaplin)
+<img src="https://img.shields.io/static/v1?label=code%20quality&message=yes!&color=brightgreen" > <img src="https://img.shields.io/static/v1?label=technical%20debt&message=heck%20no%21&color=bright%20green" > <img src="https://img.shields.io/static/v1?label=Gives%20me%20nightmares&message=VB6,%20VBA&color=red" >&nbsp;![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/joshcaplin/joshcaplin/main)
 
 My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. My current focus is full-stack web development - mainly with React, .NET Core and related technologies.
 
