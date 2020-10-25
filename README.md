@@ -24,14 +24,28 @@ My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. M
 ### :eyes: Nerdy stuff...  
 ```javascript
 const josh = {
-    codingLanguages: ['JavaScript', 'TypeScript', 'C#', 'and some obsolete ones I`m embarrassed to admit'],
-    frameworksLibraries: ['React', 'Angular', 'Vue', 'jQuery', '.NET Core', 'ASP.NET', 'Bootstrap', 'Jest', ],
+    codingLanguages: [
+      'JavaScript', 'TypeScript', 'C#', 
+      '...and some obsolete ones I`m embarrassed to admit'
+    ],
+    frameworksLibraries: [
+      'React', 'Angular', 'Vue', '.NET Core', 
+      'ASP.NET', 'Bootstrap', 'Jest', 'jQuery'
+    ],
     cloud: ['Azure', 'AWS'],
-    miscTechnologies: ['Redux', 'OAuth/OIDC', 'Web API', 'Entity Framework', 'unit testing', 'RESTful services', 'SQL', 'git', 'Node', 'Fluent UI', 'Sass', 'Less'],
-    architecture: ['Single page applications', 'Microservices', 'Serverless architecture', 'Progressive web applications', 'MVC'],
-    currentSideProjects: ['Publishing a drag & drop npm library', 'Working on a IoT kegerator'],
-    askMeAbout: ['web dev', 'coding', 'tech', 'cryptocurrency', '3d printing'],
-    funFact: 'I tried brewing beer for a while... it`s much harder than it looks!',
+    miscTechnologies: [
+      'Redux', 'OAuth/OIDC', 'Web API', 'Entity Framework', 'unit testing', 
+      'RESTful services', 'SQL', 'git', 'Node', 'Fluent UI', 'Sass', 'Less'
+    ],
+    architecture: [
+      'Single page applications', 'Microservices', 'MVC',
+      'Serverless architecture', 'Progressive web applications'
+    ],
+    currentSideProjects: [
+      'Publishing a drag & drop npm library', 'Working on a IoT kegerator'
+    ],
+    askMeAbout: ['web dev', 'coding', 'tech','cryptocurrency', '3d printing'],
+    funFacts: 'I tried brewing beer for a while... it`s much harder than it looks!',
 };
 ```
 
