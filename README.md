@@ -1,5 +1,11 @@
 # Hi there! <img src="images/wave.gif" width="50px">
 
+
+<img src="https://img.shields.io/static/v1?label=code%20quality&message=A%2B&color=brightgreen" > 
+<img src="https://img.shields.io/static/v1?label=technical%20debt&message=heck%20no%21&color=bright%20green" > <img src="https://img.shields.io/static/v1?label=Gives%20me%20nightmares&message=VB6,%20VBA&color=red" >
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/joshcaplin/joshcaplin)
+
 My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. My current focus is full-stack web development - mainly with React, .NET Core and related technologies.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin: joshcaplin](https://img.shields.io/badge/-joshcaplin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshcaplin/)](https://www.linkedin.com/in/joshcaplin/)  &nbsp;&nbsp;&nbsp;&nbsp;[![Twitter: joshcaplin](https://img.shields.io/badge/-joshcaplin-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/joshcaplin)](https://www.twitter.com/joshcaplin)
@@ -11,11 +17,11 @@ My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. M
 &nbsp;
 
 ### :sunrise_over_mountains: Hobbies
-
+- Skiing, disc golf, hiking & building things like a home arcade system and a cryptocurrency mining rig. 
 &nbsp;
 
 ### :dart: Future goals
-
+- I'd like to help others get into software development.  It seems like a common concern is that people don't know how to get started, or no one will hire them without IT experience so I'd like to share how I got past those roadblocks. 
 &nbsp;
 
 ### :book: Favorite books
