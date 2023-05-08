@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/static/v1?label=code%20quality&message=yes!&color=brightgreen" > <img src="https://img.shields.io/static/v1?label=technical%20debt&message=heck%20no%21&color=bright%20green" > <img src="https://img.shields.io/static/v1?label=Gives%20me%20nightmares&message=VB6,%20VBA&color=red" >&nbsp;![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/joshcaplin/joshcaplin/main)
 
-My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. My current focus is full-stack web development - mainly with React, .NET Core and related technologies.
+My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. My current focus is full-stack web development - mainly with React, .NET Core, NodeJS and related technologies.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin: joshcaplin](https://img.shields.io/badge/-joshcaplin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshcaplin/)](https://www.linkedin.com/in/joshcaplin/)  &nbsp;&nbsp;&nbsp;&nbsp;[![Twitter: joshcaplin](https://img.shields.io/badge/-joshcaplin-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/joshcaplin)](https://www.twitter.com/joshcaplin)
 
@@ -25,17 +25,20 @@ My name is Josh Caplin and I'm a software engineer living in Arizona :cactus:. M
 ```javascript
 const josh = {
     codingLanguages: [
-      'JavaScript', 'TypeScript', 'C#', 
-      '...and some obsolete ones I`m embarrassed to admit',
+      'JavaScript', 'TypeScript', 'C#', 'Python', 
+      '...and some obsolete ones I`m too embarrassed to admit',
     ],
-    frameworksLibraries: [
-      'React', 'Angular', 'Vue', '.NET Core', 
-      'ASP.NET', 'Bootstrap', 'Jest', 'jQuery',
+    frameworksAndLibraries: [
+      'React', 'Angular', 'Vue', '.NET Core', 'NodeJS', 'Express', 
+      'Cypress', 'ASP.NET', 'Jest', 'Mongoose', 'NextJS', 
+      'Bootstrap', 'React Testing Librbary', 'jQuery',
     ],
     cloud: ['Azure', 'AWS'],
     miscTechnologies: [
-      'Redux', 'OAuth/OIDC', 'Web API', 'Entity Framework', 'unit testing', 
-      'RESTful services', 'SQL', 'git', 'Node', 'Fluent UI', 'Sass', 'Less',
+      'Redux', 'OAuth/OIDC', 'Web API', 'Entity Framework', 'MERN stack',
+      'unit testing', 'web3', 'Solidity', 'RESTful services', 'git',
+      'SQL', 'MongoDB', 'Node', 'Fluent UI', 'SSO', 'CI/CD', 'SQL',
+      'Salesforce', 'GraphQL', 'Sass', 'Less', 'CSS',
     ],
     architecture: [
       'Single page applications', 'Microservices', 'MVC',
